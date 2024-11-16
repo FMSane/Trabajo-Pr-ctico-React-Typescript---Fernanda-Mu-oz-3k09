@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+Este repositorio contiene un formulario para cargar productos y añadirlos ordenadamente a la página principal.
+
 ## Requisitos previos
 Antes de empezar, asegúrate de tener las siguientes herramientas instaladas en tu máquina:
 
